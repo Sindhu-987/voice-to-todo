@@ -1,6 +1,6 @@
 const startBtn = document.getElementById('startBtn');
 const taskList = document.getElementById('taskList');
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://voice-notes-api-dwgo.onrender.com';
 
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 const recognition = new SpeechRecognition();
