@@ -9,7 +9,7 @@
 - Fully browser-based
 
 ## Live
-[Access Live App](https://sindhu-987.github.io/voice-to-todo/)
+[Access Live App](https://voice-to-todo1.onrender.com/)
 
 ## Setup Instructions
 1. Clone the repo
